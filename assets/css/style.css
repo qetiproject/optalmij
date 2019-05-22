@@ -623,7 +623,7 @@ a.more {
 		width: 100%;
 		height: calc(100vh - 100px);
 		position: absolute;
-		top: 100px;
+		top: 70px;
 		left: 0;
 		z-index: 2;
 		padding: 0;
